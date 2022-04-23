@@ -2,7 +2,7 @@ name: "BDS516 2022"
 output_dir: "."
 output:
   html_document:
-    theme: yeti
+    theme: lumen
     highlight: tango
 navbar:
   title: "BDS516 2022"
