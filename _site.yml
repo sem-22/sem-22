@@ -1,6 +1,9 @@
 name: "BDS516 2022"
 output_dir: "."
-theme: materia
+output:
+  html_document:
+    theme: yeti
+    highlight: tango
 navbar:
   title: "BDS516 2022"
   left:
