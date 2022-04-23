@@ -1,5 +1,6 @@
 name: "BDS516 2022"
 output_dir: "."
+theme: "materia"
 navbar:
   title: "BDS516 2022"
   left:
@@ -9,3 +10,4 @@ navbar:
       href: about.html
     - text: "Morawej"
       href: sem22.html
+
